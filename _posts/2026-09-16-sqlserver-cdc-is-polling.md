@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CDC는 폴링이 아니다"가 SQL Server에서는 반만 맞는 이유
+title: '"CDC는 폴링이 아니다"가 SQL Server에서는 반만 맞는 이유'
 date: 2026-09-16
 tags: [cdc, kafka, sqlserver, 아키텍처, 이벤트연계]
 summary: SQL Server CDC 는 로그 직독이 아니라 캡처 잡과 커넥터로 이어지는 2단 폴링이다. 기본 5초 지연이 설계를 뒤집었다.
