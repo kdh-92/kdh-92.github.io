@@ -1,0 +1,10 @@
+title: kdh-92
+description: 백엔드 · 인프라 · AI 엔지니어링 기록
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+permalink: /:year/:month/:day/:title/
